@@ -4,6 +4,8 @@ Un asistente comercial para inmobiliarias que funciona dentro de Claude y de Cod
 
 Cada persona lo usa con su propia cuenta de Claude o de ChatGPT.
 
+**¿Primera vez? Seguí el [Manual de usuario](MANUAL_DE_USUARIO.md), que explica todo paso a paso.**
+
 ## Usarlo con Claude
 
 **Claude Code en la web o en la app de escritorio:** elegí este repositorio (o esta carpeta) como proyecto y empezá a escribir.
